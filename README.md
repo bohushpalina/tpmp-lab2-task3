@@ -14,7 +14,7 @@ To build:
 
 To run:
 
-```./program```
+```./student```
 
 # Additional Notes
 
