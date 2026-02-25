@@ -10,11 +10,11 @@ Polina Bohush
 
 To build:
 
-make
+```make```
 
 To run:
 
-./program
+```./program```
 
 # Additional Notes
 
