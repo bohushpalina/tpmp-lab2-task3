@@ -14,7 +14,7 @@ To build:
 
 To run:
 
-```./student```
+```./bin/student```
 
 # Additional Notes
 
